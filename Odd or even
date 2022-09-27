@@ -22,5 +22,5 @@ int main()
     if(arr[i]%2==1)
     printf("%d ", arr[i]);
     }
-    return 0
+    return 0;
 }
